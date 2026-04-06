@@ -1,0 +1,27 @@
+.ft-navbar{
+  background:#b40000;
+}
+.ft-navbar .nav-link{
+    color: #ffffff !important;
+}
+.ft-navbar .nav-link:hover{
+    color: #ffdede !important; 
+}
+
+.ft-hero{
+  background:url('banner.jpg') center/cover no-repeat;
+  height:420px;
+}
+
+.section-title{
+  border-left:6px solid #b40000;
+  padding-left:12px;
+  font-weight:700;
+}
+
+.ft-footer{
+  background:#0c0c0c;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
